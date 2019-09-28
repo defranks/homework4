@@ -1,8 +1,7 @@
 html{
     scroll-behavior: smooth;
 }
-/*this element should span from the first to the fourth not talkn abt body media quer use it when ur doin mobile n shit*/
-/*use MIN-width ONLY*/
+
 body{
   background-color: #ddd;
   font-size: 18px;
